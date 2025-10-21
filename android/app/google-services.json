@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670966149763",
+    "project_id": "my-pro-fcc67",
+    "storage_bucket": "my-pro-fcc67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670966149763:android:9c62a31d842e37574a61b6",
+        "android_client_info": {
+          "package_name": "com.karam.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2CAoOA912yva-D9-2TDAxztG4FPOpQ5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
