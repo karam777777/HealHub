@@ -26,6 +26,8 @@ It allows patients to book appointments, receive electronic prescriptions, and c
 ---
 
 ## 📸 Screenshots
+<img width="1004" height="890" alt="image" src="https://github.com/user-attachments/assets/0ead5bbe-94ee-453f-a01d-aac993c6e08c" />
+<img width="931" height="1110" alt="image" src="https://github.com/user-attachments/assets/af7d5ab5-752e-4eda-9072-7755a546b7f4" />
 
 ![photo_2025-09-05_14-50-31](https://github.com/user-attachments/assets/5d253efd-ce95-4ba2-abcb-9280d10fb816)
 
