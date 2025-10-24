@@ -1,6 +1,6 @@
 # 🏥 HealHub
 
-HealHub is a modern medical mobile application built using Flutter, Firebase, and Dart.  
+HealHub is a modern medical mobile application (Connecting multiple patients to multiple doctors )built using Flutter, Firebase, and Dart (state management gitX)
 It allows patients to book appointments, receive electronic prescriptions, and communicate directly with doctors.
 
 ---
